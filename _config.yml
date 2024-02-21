@@ -1,10 +1,10 @@
 # site settings
-title: Lewis Pour
+title: Callum MacDougall
 subtitle: ''
 description: he/him. DevOps engineer. cloud explorer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Lewis Pour
+author: Callum MacDougall
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -13,14 +13,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/lewispour
+github_url: https://github.com/Callumpour
 gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/lewis-pour/
+linkedin_url: https://www.linkedin.com/in/Callum-pour/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/lewispour
+twitter_url: https://twitter.com/Callumpour
 
 # build settings
 markdown: kramdown

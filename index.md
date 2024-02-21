@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Lewis Pour'
+landing-title: 'Callum MacDougall'
 description: null
 image: null
 author: null

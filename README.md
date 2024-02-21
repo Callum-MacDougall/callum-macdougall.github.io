@@ -1,6 +1,6 @@
-# Lewis Pour - Personal Website
+# Callum MacDougall - Personal Website
 
-Personal Github Profile for Lewis Pour
+Personal Github Profile for Callum MacDougall
 # Credits
 
 	Demo Images:
