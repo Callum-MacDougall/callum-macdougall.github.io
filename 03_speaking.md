@@ -30,7 +30,7 @@ nav-menu: true
 						<td>Anytime / 00:00 GMT</td>
 						<td>Invite Callum to Talk?</td>
 						<td>Callum talks about Devops Technologies!</td>
-						<td><a href="https://www.linkedin.com/in/Callum-pour/">Contact Me</a></td>
+						<td><a href="https://www.linkedin.com/in/Callum-macdougall/">Contact Me</a></td>
 					</tr>
 				</tbody>
 			</table>
